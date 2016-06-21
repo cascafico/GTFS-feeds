@@ -1,0 +1,2 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+4,Pasian di Prato,San Gottardo - Oberdan - Ferrovia - Garibaldi - Pasian di Prato,descrizione,3
