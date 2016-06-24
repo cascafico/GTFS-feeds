@@ -1,4 +1,4 @@
-route_id,service_id,trip_id,trip_headsign,shape_id
+route_id,service_id,trip_id,trip_headsign,xshape_id
 4,WD,4_SWD1,Pasian di Prato,r6261200
 4,WD,4_SWD2,Pasian di Prato,r6261200
 4,WD,4_SWD3,Pasian di Prato,r6261200
@@ -11,4 +11,13 @@ route_id,service_id,trip_id,trip_headsign,shape_id
 4,WD,4_SWD10,Pasian di Prato,r6261200
 4,WD,4_SWD11,Pasian di Prato,r6261200
 4,WD,4_SWD12,Pasian di Prato,r6261200
+4,WD,4_SWD13,Pasian di Prato,r6261200
+4,WD,4_SWD14,Pasian di Prato,r6261200
+4,WD,4_SWD15,Pasian di Prato,r6261200
+4,WD,4_SWD16,Pasian di Prato,r6261200
+4,WD,4_SWD17,Pasian di Prato,r6261200
+4,WD,4_SWD18,Pasian di Prato,r6261200
+4,WD,4_SWD19,Pasian di Prato,r6261200
+4,WD,4_SWD20,Pasian di Prato,r6261200
+4,WD,4_SWD21,Pasian di Prato,r6261200
 4,WD,4_SWDXX,Pasian di Prato,r6261200
