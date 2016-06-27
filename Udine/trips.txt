@@ -1,4 +1,4 @@
-route_id,service_id,trip_id,trip_headsign,xshape_id
+route_id,service_id,trip_id,trip_headsign,shape_id
 4,WD,4_SWD1,Pasian di Prato,r6261200
 4,WD,4_SWD2,Pasian di Prato,r6261200
 4,WD,4_SWD3,Pasian di Prato,r6261200
@@ -21,4 +21,25 @@ route_id,service_id,trip_id,trip_headsign,xshape_id
 4,WD,4_SWD20,Pasian di Prato,r6261200
 4,WD,4_SWD21,Pasian di Prato,r6261200
 4,WD,4_SWD30,San Gottardo,r6261200
+4,WD,4_SWD31,San Gottardo,r6261200
+4,WD,4_SWD32,San Gottardo,r6261200
+4,WD,4_SWD33,San Gottardo,r6261200
+4,WD,4_SWD34,San Gottardo,r6261200
+4,WD,4_SWD35,San Gottardo,r6261200
+4,WD,4_SWD36,San Gottardo,r6261200
+4,WD,4_SWD37,San Gottardo,r6261200
+4,WD,4_SWD38,San Gottardo,r6261200
+4,WD,4_SWD39,San Gottardo,r6261200
+4,WD,4_SWD40,San Gottardo,r6261200
+4,WD,4_SWD41,San Gottardo,r6261200
+4,WD,4_SWD42,San Gottardo,r6261200
+4,WD,4_SWD43,San Gottardo,r6261200
+4,WD,4_SWD44,San Gottardo,r6261200
+4,WD,4_SWD45,San Gottardo,r6261200
+4,WD,4_SWD46,San Gottardo,r6261200
+4,WD,4_SWD47,San Gottardo,r6261200
+4,WD,4_SWD48,San Gottardo,r6261200
+4,WD,4_SWD49,San Gottardo,r6261200
+4,WD,4_SWD50,San Gottardo,r6261200
+4,WD,4_SWD51,San Gottardo,r6261200
 4,WD,4_SWDXX,Pasian di Prato,r6261200
