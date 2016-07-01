@@ -1,0 +1,4 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+E51TA,E51,Aeroporto Ronchi d. L.,descrizione,3
+E51AT,E51,Trieste Autostazione,descrizione,3
+
